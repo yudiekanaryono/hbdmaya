@@ -1,6 +1,6 @@
  window.addEventListener('load', () => {
     Swal.fire({
-      title: 'Do you want to play music in the background?',
+      title: 'Apakah kamu ingin memutar musik di latar belakang?',
       // text: "You won't be able to revert this!",
       icon: 'warning',
       showCancelButton: true,
