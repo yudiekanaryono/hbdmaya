@@ -13,7 +13,7 @@ window.addEventListener("load", () => {
     if (result.isConfirmed) {
       document.querySelector(".song").play();
       resolveFetch().then(animationTimeline());
-    } else {3q1
+    } else {
       resolveFetch().then(animationTimeline());
     }
   });
